@@ -23,7 +23,7 @@ else:
         if pas == pasr:
             print("Пароль совпадает")
         else:
-            print("Пароль НЕ совпадает")
+            print("Пароль не совпадает")
     else:
         if countlow == 0:
             flaws += "Строчных букв\n"
